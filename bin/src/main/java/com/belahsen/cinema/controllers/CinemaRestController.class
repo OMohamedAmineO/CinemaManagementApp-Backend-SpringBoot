@@ -1,0 +1,136 @@
+Êþº¾   4 C  @src/main/java/com/belahsen/cinema/controllers/CinemaRestController  java/lang/Object filmRepository LFilmRepository; RuntimeInvisibleAnnotations LAutowired; ticketRepository LTicketRepository; <init> ()V Code  java/lang/Error 9Unresolved compilation problems: 
+	The method getNomClient() from the type TicketForm refers to the missing type String
+	The method getTickets() from the type TicketForm refers to the missing type List
+	The declared package "com.belahsen.cinema.controllers" does not match the expected package "src.main.java.com.belahsen.cinema.controllers"
+	The import java.io cannot be resolved
+	The import java.nio cannot be resolved
+	The import java.nio cannot be resolved
+	The import java.nio cannot be resolved
+	The import java.util cannot be resolved
+	The import java.util cannot be resolved
+	The import com cannot be resolved
+	The import com cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import javax cannot be resolved
+	The import lombok cannot be resolved
+	RestController cannot be resolved to a type
+	CrossOrigin cannot be resolved to a type
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	Autowired cannot be resolved to a type
+	FilmRepository cannot be resolved to a type
+	Autowired cannot be resolved to a type
+	TicketRepository cannot be resolved to a type
+	GetMapping cannot be resolved to a type
+	MediaType cannot be resolved to a variable
+	PathVariable cannot be resolved to a type
+	Long cannot be resolved to a type
+	Exception cannot be resolved to a type
+	Film cannot be resolved to a type
+	FilmRepository cannot be resolved to a type
+	String cannot be resolved to a type
+	File cannot be resolved to a type
+	File cannot be resolved to a type
+	System cannot be resolved
+	Path cannot be resolved to a type
+	Paths cannot be resolved
+	Files cannot be resolved
+	PostMapping cannot be resolved to a type
+	Transactional cannot be resolved to a type
+	List cannot be resolved to a type
+	Ticket cannot be resolved to a type
+	RequestBody cannot be resolved to a type
+	List cannot be resolved to a type
+	Ticket cannot be resolved to a type
+	ArrayList cannot be resolved to a type
+	The method getTickets() from the type TicketForm refers to the missing type List
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	String cannot be resolved to a type
+	java cannot be resolved to a type
+	List cannot be resolved to a type
+	Long cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	String cannot be resolved to a type
+	java cannot be resolved to a type
+	List cannot be resolved to a type
+	Long cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	Long cannot be resolved to a type
+	java cannot be resolved to a type
+	The method canEqual(Object) from the type TicketForm refers to the missing type Object
+	java cannot be resolved to a type
+	The method getNomClient() from the type TicketForm refers to the missing type String
+	java cannot be resolved to a type
+	The method getNomClient() from the type TicketForm refers to the missing type String
+	java cannot be resolved to a type
+	The method getTickets() from the type TicketForm refers to the missing type List
+	java cannot be resolved to a type
+	The method getTickets() from the type TicketForm refers to the missing type List
+	The method hashCode() of type TicketForm must override or implement a supertype method
+	java cannot be resolved to a type
+	The method getNomClient() from the type TicketForm refers to the missing type String
+	java cannot be resolved to a type
+	The method getTickets() from the type TicketForm refers to the missing type List
+	The method toString() of type TicketForm must override or implement a supertype method
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Data cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	Long cannot be resolved to a type
+	ArrayList cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this BLsrc/main/java/com/belashen/cinema/controllers/CinemaRestController; image 
+(LLong;)[B 
+Exceptions  	Exception LGetMapping; path produces $RuntimeInvisibleParameterAnnotations LPathVariable; name %Unresolved compilation problems: 
+	GetMapping cannot be resolved to a type
+	MediaType cannot be resolved to a variable
+	PathVariable cannot be resolved to a type
+	Long cannot be resolved to a type
+	Exception cannot be resolved to a type
+	Film cannot be resolved to a type
+	FilmRepository cannot be resolved to a type
+	String cannot be resolved to a type
+	File cannot be resolved to a type
+	File cannot be resolved to a type
+	System cannot be resolved
+	Path cannot be resolved to a type
+	Paths cannot be resolved
+	Files cannot be resolved
+ RuntimeInvisibleTypeAnnotations id MethodParameters payerTickets @(Lsrc/main/java/com/belahsen/cinema/controllers/TicketForm;)LList; 	Signature J(Lsrc/main/java/com/belahsen/cinema/controllers/TicketForm;)LList<LTicket;>; LPostMapping; value LTransactional; LRequestBody; 2¬Unresolved compilation problems: 
+	PostMapping cannot be resolved to a type
+	Transactional cannot be resolved to a type
+	List cannot be resolved to a type
+	Ticket cannot be resolved to a type
+	RequestBody cannot be resolved to a type
+	List cannot be resolved to a type
+	Ticket cannot be resolved to a type
+	ArrayList cannot be resolved to a type
+	The method getTickets() from the type TicketForm refers to the missing type List
+ 
+ticketForm 
+SourceFile CinemaRestController.java LRestController; LCrossOrigin; 9 FilmRepository ; List = Long ? Ticket A TicketRepository MissingTypes !                   	 
+                  4     
+» Y· ¿                   
+                       !     "      4     
+» Y$· ¿                   
+     &       "        (    '    ) *  +    ,      /   !     0      4     
+» Y1· ¿           %        
+     &       0    /   (    3    4    5      6   B      8 : < > @

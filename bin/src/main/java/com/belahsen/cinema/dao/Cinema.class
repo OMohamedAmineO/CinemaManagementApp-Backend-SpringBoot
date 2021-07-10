@@ -1,0 +1,190 @@
+ ˛∫æ   4 n  *src/main/java/com/belahsen/cinema/dao/Cinema  java/lang/Object id LLong; RuntimeInvisibleAnnotations LId; LGeneratedValue; strategy name Ljava/lang/String; 	longitude D latitude altitude nombreSalles I salles LCollection; 	Signature 9LCollection<Lsrc/main/java/com/belahsen/cinema/dao/Salle;>; LOneToMany; mappedBy ville +Lsrc/main/java/com/belahsen/cinema/dao/Ville; LManyToOne; getId ()LLong; Ljava/lang/SuppressWarnings; value Code " java/lang/Error $
+ÓUnresolved compilation problems: 
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	The method getSalles() from the type Cinema refers to the missing type Collection
+	The method getSalles() from the type Cinema refers to the missing type Collection
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	The method getId() from the type Cinema refers to the missing type Long
+	java cannot be resolved to a type
+	The method getId() from the type Cinema refers to the missing type Long
+	java cannot be resolved to a type
+	The method getName() from the type Cinema refers to the missing type String
+	java cannot be resolved to a type
+	The method getName() from the type Cinema refers to the missing type String
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	The method getId() from the type Cinema refers to the missing type Long
+	java cannot be resolved to a type
+	The method getSalles() from the type Cinema refers to the missing type Collection
+	The method getName() from the type Cinema refers to the missing type String
+	java cannot be resolved
+	The method hashCode() of type Cinema must override or implement a supertype method
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved
+	java cannot be resolved
+	Long cannot be resolved to a type
+	java cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Collection cannot be resolved to a type
+	java cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Collection cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	The method canEqual(Object) from the type Cinema refers to the missing type Object
+	String cannot be resolved to a type
+	Collection cannot be resolved to a type
+	java cannot be resolved
+	java cannot be resolved to a type
+	java cannot be resolved
+	java cannot be resolved
+	Long cannot be resolved to a type
+	Collection cannot be resolved to a type
+	String cannot be resolved to a type
+	Data cannot be resolved to a type
+
+ ! & ' ( <init> (Ljava/lang/String;)V LineNumberTable LocalVariableTable this ,Lsrc/main/java/com/belahsen/cinema/dao/Cinema; RuntimeInvisibleTypeAnnotations getName ()Ljava/lang/String; 1 !Unresolved compilation problem: 
+ getLongitude ()D getLatitude getAltitude getNombreSalles ()I 	getSalles ()LCollection; ;()LCollection<Lsrc/main/java/com/belahsen/cinema/dao/Salle;>; getVille -()Lsrc/main/java/com/belahsen/cinema/dao/Ville; setId 	(LLong;)V MethodParameters setName setLongitude (D)V setLatitude setAltitude setNombreSalles (I)V 	setSalles (LCollection;)V <(LCollection<Lsrc/main/java/com/belahsen/cinema/dao/Salle;>;)V setVille .(Lsrc/main/java/com/belahsen/cinema/dao/Ville;)V equals (Ljava/lang/Object;)Z Ljava/lang/Override; o canEqual other hashCode ()V UKUnresolved compilation problems: 
+	The method getName() from the type Cinema refers to the missing type String
+	The method getId() from the type Cinema refers to the missing type Long
+	The method getSalles() from the type Cinema refers to the missing type Collection
+	The declared package "com.belahsen.cinema.dao" does not match the expected package "src.main.java.com.belahsen.cinema.dao"
+	The import java.io cannot be resolved
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	Entity cannot be resolved to a type
+	java cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	NoArgsConstructor cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	ToString cannot be resolved to a type
+	java cannot be resolved to a type
+	AllArgsConstructor cannot be resolved to a type
+	Serializable cannot be resolved to a type
+	Id cannot be resolved to a type
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	OneToMany cannot be resolved to a type
+	Collection cannot be resolved to a type
+	ManyToOne cannot be resolved to a type
+ toString X èUnresolved compilation problems: 
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	ToString cannot be resolved to a type
+ V(LLong;Ljava/lang/String;DDDILCollection;Lsrc/main/java/com/belahsen/cinema/dao/Ville;)V É(LLong;Ljava/lang/String;DDDILCollection<Lsrc/main/java/com/belahsen/cinema/dao/Salle;>;Lsrc/main/java/com/belahsen/cinema/dao/Ville;)V \ﬁUnresolved compilation problems: 
+	The method getName() from the type Cinema refers to the missing type String
+	The method getId() from the type Cinema refers to the missing type Long
+	The method getSalles() from the type Cinema refers to the missing type Collection
+	The declared package "com.belahsen.cinema.dao" does not match the expected package "src.main.java.com.belahsen.cinema.dao"
+	The import java.io cannot be resolved
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	Entity cannot be resolved to a type
+	java cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	NoArgsConstructor cannot be resolved to a type
+	java cannot be resolved to a type
+	AllArgsConstructor cannot be resolved to a type
+	Serializable cannot be resolved to a type
+	Id cannot be resolved to a type
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	OneToMany cannot be resolved to a type
+	Collection cannot be resolved to a type
+	ManyToOne cannot be resolved to a type
+ 
+SourceFile Cinema.java LEntity; LData; LNoArgsConstructor; 
+LToString; LAllArgsConstructor; InconsistentHierarchy f 
+Collection h Long j Serializable l java/lang/String MissingTypes !             
+     	                                                                  4     
+ª !Y#∑ %ø    )        *       
+ + ,    . /      4     
+ª !Y0∑ %ø    )        *       
+ + ,    2 3      4     
+ª !Y0∑ %ø    )        *       
+ + ,    4 3      4     
+ª !Y0∑ %ø    )        *       
+ + ,    5 3      4     
+ª !Y0∑ %ø    )        *       
+ + ,    6 7      4     
+ª !Y0∑ %ø    )        *       
+ + ,    8 9      :     4     
+ª !Y0∑ %ø    )        *       
+ + ,    ; <      4     
+ª !Y0∑ %ø    )        *       
+ + ,    = >      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       @ (      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       A B      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       C B      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       D B      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       E F      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       G H      I     4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       J K      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?       L M       N       4     
+ª !Y0∑ %ø    )        *       
+ + ,   -      N   ?    O   P M      4     
+ª !Y0∑ %ø    )        *       
+ + ,   ?    Q   R 7       N       4     
+ª !Y0∑ %ø    )        *       
+ + ,   -      N    ' S      4     
+ª !YT∑ %ø    )        *       
+ + ,    V /       N       4     
+ª !YW∑ %ø    )        *       
+ + ,   -      N    ' Y      Z     4     
+ª !Y[∑ %ø    )        *       
+ + ,   ?   !                  ]    ^      _   `   a   b   c   d     m     e g i  k

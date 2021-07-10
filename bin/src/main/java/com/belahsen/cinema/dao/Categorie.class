@@ -1,0 +1,176 @@
+Êþº¾   4 W  -src/main/java/com/belahsen/cinema/dao/Categorie  java/lang/Object id LLong; RuntimeInvisibleAnnotations LId; LGeneratedValue; strategy name Ljava/lang/String; LColumn; length films LCollection; 	Signature 8LCollection<Lsrc/main/java/com/belahsen/cinema/dao/Film;>; LOneToMany; mappedBy LJsonProperty; access getId ()LLong; Ljava/lang/SuppressWarnings; value Code  java/lang/Error õUnresolved compilation problems: 
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	Collection cannot be resolved to a type
+	java cannot be resolved to a type
+	Long cannot be resolved to a type
+	java cannot be resolved to a type
+	String cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	JsonProperty cannot be resolved to a type
+	Access cannot be resolved
+	java cannot be resolved to a type
+	Collection cannot be resolved to a type
+	java cannot be resolved to a type
+	Long cannot be resolved to a type
+	java cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Collection cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Collection cannot be resolved to a type
+	java cannot be resolved to a type
+	The method canEqual(Object) from the type Categorie refers to the missing type Object
+	java cannot be resolved to a type
+	The method getId() from the type Categorie refers to the missing type Long
+	java cannot be resolved to a type
+	The method getId() from the type Categorie refers to the missing type Long
+	java cannot be resolved to a type
+	The method getName() from the type Categorie refers to the missing type String
+	java cannot be resolved to a type
+	The method getName() from the type Categorie refers to the missing type String
+	java cannot be resolved to a type
+	The method getFilms() from the type Categorie refers to the missing type Collection
+	java cannot be resolved to a type
+	The method getFilms() from the type Categorie refers to the missing type Collection
+	The method hashCode() of type Categorie must override or implement a supertype method
+	java cannot be resolved to a type
+	The method getId() from the type Categorie refers to the missing type Long
+	java cannot be resolved to a type
+	The method getName() from the type Categorie refers to the missing type String
+	java cannot be resolved to a type
+	The method getFilms() from the type Categorie refers to the missing type Collection
+	Data cannot be resolved to a type
+
+  ! " # <init> (Ljava/lang/String;)V LineNumberTable LocalVariableTable this /Lsrc/main/java/com/belahsen/cinema/dao/Categorie; RuntimeInvisibleTypeAnnotations getName ()Ljava/lang/String; , !Unresolved compilation problem: 
+ getFilms ()LCollection; :()LCollection<Lsrc/main/java/com/belahsen/cinema/dao/Film;>; setId 	(LLong;)V MethodParameters setName setFilms (LCollection;)V ;(LCollection<Lsrc/main/java/com/belahsen/cinema/dao/Film;>;)V equals (Ljava/lang/Object;)Z Ljava/lang/Override; o canEqual other hashCode ()I ()V ARUnresolved compilation problems: 
+	The method getId() from the type Categorie refers to the missing type Long
+	The method getName() from the type Categorie refers to the missing type String
+	The method getFilms() from the type Categorie refers to the missing type Collection
+	The declared package "com.belahsen.cinema.dao" does not match the expected package "src.main.java.com.belahsen.cinema.dao"
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import com cannot be resolved
+	The import com cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	Entity cannot be resolved to a type
+	java cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	NoArgsConstructor cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	The method toString() of type Categorie must override or implement a supertype method
+	ToString cannot be resolved to a type
+	java cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Collection cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Collection cannot be resolved to a type
+	AllArgsConstructor cannot be resolved to a type
+	Id cannot be resolved to a type
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	OneToMany cannot be resolved to a type
+	JsonProperty cannot be resolved to a type
+	Access cannot be resolved to a variable
+	Collection cannot be resolved to a type
+ toString D	Unresolved compilation problems: 
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	java cannot be resolved to a type
+	The method toString() of type Categorie must override or implement a supertype method
+	ToString cannot be resolved to a type
+ '(LLong;Ljava/lang/String;LCollection;)V S(LLong;Ljava/lang/String;LCollection<Lsrc/main/java/com/belahsen/cinema/dao/Film;>;)V HkUnresolved compilation problems: 
+	The method getId() from the type Categorie refers to the missing type Long
+	The method getName() from the type Categorie refers to the missing type String
+	The method getFilms() from the type Categorie refers to the missing type Collection
+	The declared package "com.belahsen.cinema.dao" does not match the expected package "src.main.java.com.belahsen.cinema.dao"
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import com cannot be resolved
+	The import com cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	The import lombok cannot be resolved
+	Entity cannot be resolved to a type
+	java cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	NoArgsConstructor cannot be resolved to a type
+	java cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Collection cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Collection cannot be resolved to a type
+	AllArgsConstructor cannot be resolved to a type
+	Id cannot be resolved to a type
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	OneToMany cannot be resolved to a type
+	JsonProperty cannot be resolved to a type
+	Access cannot be resolved to a variable
+	Collection cannot be resolved to a type
+ 
+SourceFile Categorie.java LEntity; LData; LNoArgsConstructor; 
+LToString; LAllArgsConstructor; Q 
+Collection S Long U java/lang/String MissingTypes !             
+     	                           
+                4     
+» Y·  ¿    $        %       
+ & '    ) *     4     
+» Y+·  ¿    $        %       
+ & '    - .      /    4     
+» Y+·  ¿    $        %       
+ & '    0 1     4     
+» Y+·  ¿    $        %       
+ & '   2       3 #     4     
+» Y+·  ¿    $        %       
+ & '   2       4 5      6            4     
+» Y+·  ¿    $        %       
+ & '   2       7 8       9      4     
+» Y+·  ¿    $        %       
+ & '   (      9   2    :   ; 8     4     
+» Y+·  ¿    $        %       
+ & '   2    <   = >       9      4     
+» Y+·  ¿    $        %       
+ & '   (      9    " ?     4     
+» Y@·  ¿    $        %       
+ & '    B *       9      4     
+» YC·  ¿    $        %       
+ & '   (      9    " E      F    4     
+» YG·  ¿    $        %       
+ & '   2           I    J      K   L   M   N   O   V   
+  P R  T

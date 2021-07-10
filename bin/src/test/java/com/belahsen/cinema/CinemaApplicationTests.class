@@ -1,0 +1,17 @@
+Êþº¾   4   6src/test/java/com/belahsen/cinema/CinemaApplicationTests  java/lang/Object <init> ()V Code 	 java/lang/Error —Unresolved compilation problems: 
+	The declared package "com.belahsen.cinema" does not match the expected package "src.test.java.com.belahsen.cinema"
+	The import org cannot be resolved
+	The import org cannot be resolved
+	SpringBootTest cannot be resolved to a type
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	Test cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this 8Lsrc/test/java/com/belahsen/cinema/CinemaApplicationTests; contextLoads RuntimeInvisibleAnnotations LTest;  DUnresolved compilation problem: 
+	Test cannot be resolved to a type
+ 
+SourceFile CinemaApplicationTests.java LSpringBootTest;                  4     
+» Y
+· ¿                   
+                     4     
+» Y· ¿           	        
+                  
